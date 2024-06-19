@@ -74,4 +74,8 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Metahumans
-Content/MetaHumans/*
+#Content/MetaHumans/*
+Yuri_FaceMesh.uasset
+Vivian_FaceMesh.uasset
+Malika_FaceMesh.uasset
+Face_Archetype.uasset
